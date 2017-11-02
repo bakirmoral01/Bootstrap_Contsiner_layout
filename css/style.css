@@ -1,0 +1,77 @@
+body{
+    text-align: center;text-transform: uppercase
+}
+
+.no_pad_right{
+    padding-right: 0px;
+   
+}
+
+
+.header{
+    background: #9FC5F8;
+    min-height: 100px;
+}
+.logo,.menu,.icon{
+    min-height: 80px;
+    margin-top: 10px;
+    border: 1px solid black;
+    background: #CFE2FB;
+}
+.slider{
+     background: #9FC5F8;
+    min-height: 150px;
+    margin-top: 15px
+}
+
+.slider_one,.slider_two{
+     min-height: 100px;
+    margin-top: 25px;
+    border: 1px solid black;
+    background: #CFE2FB;
+}
+
+.side_top{
+    background: #6FA8DC;
+    min-height: 150px;
+    margin-top: 15px
+}
+.main_content{
+     background: #9FC5F8;
+    min-height: 450px;
+    margin-top: 15px
+}
+.content_one,.content_two{
+      min-height: 400px;
+    border: 1px solid black;
+    background: #CFE2FB;
+    margin-top: 25px
+}
+.sidebar_btm{
+     background: #9FC5F8 ;
+    min-height: 450px;
+    margin-top: 15px;
+    padding: 25px 10px
+}
+.siderbar{
+        min-height: 400px;
+    border: 1px solid black;
+    background: #CFE2FB;
+}
+.footer{
+    background: #9FC5F8;
+    min-height: 100px;
+    margin-top: 15px
+}
+
+
+
+
+
+
+
+
+
+
+
+
